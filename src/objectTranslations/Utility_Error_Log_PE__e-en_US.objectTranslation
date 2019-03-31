@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Utility Error Log</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Utility Error Logs</value>
+    </caseValues>
+    <fields>
+        <label><!-- Class Name --></label>
+        <name>Class_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Error Message --></label>
+        <name>Error_Message__c</name>
+    </fields>
+    <fields>
+        <label><!-- Log Date Time --></label>
+        <name>Log_Date_Time__c</name>
+    </fields>
+    <fields>
+        <label><!-- Other Details --></label>
+        <name>Other_Details__c</name>
+    </fields>
+    <fields>
+        <label><!-- Running User ID --></label>
+        <name>Running_User_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Stacktrace --></label>
+        <name>StackTraceString__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
