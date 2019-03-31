@@ -5,7 +5,7 @@ Includes support for Platform Events as well as passing in an exception directly
 
 Settings are managed via Custom Metadata Types.  By default, logging is turned off.
 
-<a target="_blank" href="https://githubsfdeploy.herokuapp.com?owner=dsatiate&repo=Utility-error-log&ref=v1.0">
+<a target="_blank" href="https://githubsfdeploy.herokuapp.com?owner=dsatiate&repo=Utility-error-log">
   <img alt="Deploy to Salesforce"
        src="https://github.com/dsatiate/Utility-error-log/blob/master/images/deploy.png?raw=true">
 </a>
